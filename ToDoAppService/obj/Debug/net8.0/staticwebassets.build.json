@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FNS+PTMAWrtwxYVxHJKT/QdAZmMXcxBrW0uDUamLR0U=",
+  "Source": "ToDoAppService",
+  "BasePath": "_content/ToDoAppService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
